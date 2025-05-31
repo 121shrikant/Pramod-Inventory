@@ -1,14 +1,15 @@
 import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
 import { InevntoryService } from './Service/Inevntory.service';
 
 @Component({
   selector: 'app-root',
   imports: [],
-  templateUrl: './app.html',
-  styleUrl: './app.scss'
+  templateUrl: './app.component.html',
+  styleUrl: './app.component.scss'
 })
-export class App {
-  protected title = 'Web';
+export class AppComponent {
+  title = 'Web';
   constructor(private inevntoryService: InevntoryService) {
     // Initialization logic can go here if needed
   }
