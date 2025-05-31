@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="r3AhAicdkB7Kd4KLEmm6">
+    <mxGraphModel dx="802" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xms16j9p86bS40nbq2qz-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-1" target="xms16j9p86bS40nbq2qz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-1" value="raw purchase&lt;div&gt;&lt;ul&gt;&lt;li&gt;Warp&lt;/li&gt;&lt;li&gt;weft&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-2" target="xms16j9p86bS40nbq2qz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-2" value="Twisting Machines&lt;br&gt;10 machines - 2 gala(6, 4)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-4" target="xms16j9p86bS40nbq2qz-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="130" />
+              <mxPoint x="120" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-4" value="heating&lt;br&gt;2 gala(1,1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-9" value="Beam" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-6" target="xms16j9p86bS40nbq2qz-8">
+          <mxGeometry y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-6" value="warping machines&lt;div&gt;5 machines (2,2,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-11" value="Taka" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-8" target="xms16j9p86bS40nbq2qz-10">
+          <mxGeometry x="-0.1667" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-8" target="xms16j9p86bS40nbq2qz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gala &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;boring - 3 gala (no. of looms 74)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;office - 3 gala (no. of looms 73)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;deepak shutter - 1 gala (no. of looms 24)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;miraj - 2 gala (no. of looms 51)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;akshay - 3 gala (no. of looms 85)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;padmanagar - 1 gala (no. of looms 24)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;bharni - 1 gala (no. of looms 24)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-10" target="xms16j9p86bS40nbq2qz-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-10" value="Gala 1 Taka Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-13" value="GALA 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-16" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Heated Material&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Raw 150 roto&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xms16j9p86bS40nbq2qz-20" target="xms16j9p86bS40nbq2qz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-20" value="Gala n Taka Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xms16j9p86bS40nbq2qz-23" value="Chalan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
